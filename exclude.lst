@@ -1,0 +1,8 @@
+exclude.lst
+*.log
+*.sh
+*.json
+test*.py
+__pycache__/*
+psycopg2/__pycache__/*
+psycopg2/tests/__pycache__/*
